@@ -9,6 +9,6 @@ Tech stack used:
 * Jetpack compose for UI
 * Architecture used:
 
-MVVM
-SOLID principle
-Clean Code Architecture
+* MVVM
+* SOLID principle
+* Clean Code Architecture
