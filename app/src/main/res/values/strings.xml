@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BBCharacters</string>
+    <string name="errorText">An error has occurred, Please reload the app again</string>
+    <string name="loadingText">Loading characters..</string>
+    <string name="enterNameField">Enter character name: </string>
+</resources>
