@@ -7,7 +7,8 @@ Tech stack used:
 * Koin for dependency injection
 * Retrofit for network api
 * Jetpack compose for UI
-* Architecture used:
+
+## Architecture used:
 
 * MVVM
 * SOLID principle
